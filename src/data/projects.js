@@ -1,4 +1,3 @@
-import image2 from "../assets/image2.png";
 import image3 from "../assets/image3.png";
 import image4 from "../assets/image4.png";
 import image5 from "../assets/image5.png";
@@ -62,19 +61,7 @@ const projects = [
     liveUrl: "https://cross-generation-l6qh.vercel.app/",
     featured: false,
     imageUrl: image5,
-  },
-  {
-    id: 6,
-    title: "Todo-Manager",
-    description:
-      "A powerful and user-friendly Todo Manager App built using React and Firebase Realtime Database. It allows users to add, edit, delete, search, filter, and sort tasks, with light/dark theme support and a built-in calendar for due dates.",
-    technologies: ["React", "CSS", "JavaScript", "Firebase"],
-    githubUrl: "https://github.com/ayeshashaw/TodoList-With-FireBase",
-    liveUrl: "https://taskifymaneger.netlify.app",
-    featured: false,
-    imageUrl: image2,
-  },
-  
+  }  
 ];
 
 export default projects;
