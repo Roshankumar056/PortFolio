@@ -34,6 +34,7 @@ const Hero = () => {
 
   return (
     <section className="hero" ref={heroRef}>
+      
       <div className="hero-content">
         <p className="hero-greeting fade-in">Hello, my name is</p>
         <h1 className="hero-title fade-in delay-1">Roshan Kumar</h1>

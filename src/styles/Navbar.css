@@ -5,7 +5,7 @@
       width: 100%;
       z-index: 100;
       padding: 0 50px;
-      background-color: rgba(10, 25, 47, 0.85);
+      background-color: rgba(51, 3, 42, 0.85);
       backdrop-filter: blur(10px);
       transition: var(--transition);
       height: 70px;
